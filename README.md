@@ -1,3 +1,5 @@
+* This project was implemented as part of my course work at Grad school where we were asked to implement mutation testing using javassist. The mutation testing was performed on the following project (https://github.com/OpenHFT/Zero-Allocation-Hashing)
+
 # Mutation Testing using Javassist #
 
 ## Steps for setting up the project ##
